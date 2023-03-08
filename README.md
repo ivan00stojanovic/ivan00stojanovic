@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ivan</h1>
+<h1 align="center">Hi 👋, I'm Ivan :)</h1>
 <h3 align="center">A Full-stack Software Engineer</h3>
 
 - 🌱 I’m currently learning **React & Node**
