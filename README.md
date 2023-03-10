@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">A Full-stack Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivan00stojanovic&label=Profile%20views&color=d54407&style=flat" alt="ivan00stojanovic" /> </p>
-
 - 🌱 I’m currently learning **React & Node**
 
 - 👯 I’m looking to collaborate on **full-stack projects and web apps**
